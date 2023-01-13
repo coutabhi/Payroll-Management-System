@@ -1,3 +1,14 @@
+/*********************  PAYROLL MANAGEMENT SYSTEM   **********************************/
+//Code by Abhishek Yadav
+/*
+I took references from many places most from stackoverflow 
+As when I stuck in any part I just googled that😊 
+*/
+/*
+	Although this project is so basic but While doing this project I learned a lot
+	like file handling, update file wih authorized way.
+	Please refer to my README for more info.....
+*/
 #include<stdio.h>
 #include<iostream>
 #include<stdlib.h>
